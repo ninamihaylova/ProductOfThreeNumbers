@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\ProductOfThreeNumbers\ProductOfThreeNumbers\bin\Debug\net8.0\ProductOfThreeNumbers.exe
+C:\Users\ninag\RiderProjects\ProductOfThreeNumbers\ProductOfThreeNumbers\bin\Debug\net8.0\ProductOfThreeNumbers.deps.json
+C:\Users\ninag\RiderProjects\ProductOfThreeNumbers\ProductOfThreeNumbers\bin\Debug\net8.0\ProductOfThreeNumbers.runtimeconfig.json
+C:\Users\ninag\RiderProjects\ProductOfThreeNumbers\ProductOfThreeNumbers\bin\Debug\net8.0\ProductOfThreeNumbers.dll
+C:\Users\ninag\RiderProjects\ProductOfThreeNumbers\ProductOfThreeNumbers\bin\Debug\net8.0\ProductOfThreeNumbers.pdb
+C:\Users\ninag\RiderProjects\ProductOfThreeNumbers\ProductOfThreeNumbers\obj\Debug\net8.0\ProductOfThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\ProductOfThreeNumbers\ProductOfThreeNumbers\obj\Debug\net8.0\ProductOfThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\ProductOfThreeNumbers\ProductOfThreeNumbers\obj\Debug\net8.0\ProductOfThreeNumbers.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\ProductOfThreeNumbers\ProductOfThreeNumbers\obj\Debug\net8.0\ProductOfThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\ProductOfThreeNumbers\ProductOfThreeNumbers\obj\Debug\net8.0\ProductOfThreeNumbers.dll
+C:\Users\ninag\RiderProjects\ProductOfThreeNumbers\ProductOfThreeNumbers\obj\Debug\net8.0\refint\ProductOfThreeNumbers.dll
+C:\Users\ninag\RiderProjects\ProductOfThreeNumbers\ProductOfThreeNumbers\obj\Debug\net8.0\ProductOfThreeNumbers.pdb
+C:\Users\ninag\RiderProjects\ProductOfThreeNumbers\ProductOfThreeNumbers\obj\Debug\net8.0\ProductOfThreeNumbers.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\ProductOfThreeNumbers\ProductOfThreeNumbers\obj\Debug\net8.0\ref\ProductOfThreeNumbers.dll
